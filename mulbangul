@@ -1,1 +1,24 @@
+import os
+import tarfile
+from six.moves import urllib
+DOWNLOAD_ROOT = "https://raw.githubusercontent.com/Futuremine97/Futuremine97/blob/main/fourpeople.tgz"
+parksunghun_path = os.path.join("Users","parksunghun","Futuremine97", "fourpeople")
+parksunghun_url = DOWNLOAD_ROOT + "Futuremine97/fourpeople/fourpeople.tgz"
 
+
+def fetch_housing_data(parksunghun_url=parksunghun_url, housing_path=parksunghun_path):
+    if not os.path.isdir(parksunghun_path):
+      os.makedirs(parksunghun_path)
+    tgz_path = os.path.join(parksunghun_path, "fourpeople.tgz")
+    urllib.request.urlretrieve(parksunghun_url, tgz_path)
+    fourpeople_tgz = tarfile.open(tgz_path)
+    fourpeople_tgz.extractall(path=parksunghun_path)
+    fourpeople_tgz.close()
+    
+fetch_housing_data()
+
+import pandas as pd
+ 
+def load_housing_data(parksunghun_path=parksunghun_PATH):
+    csv_path = os.path.join(parksunghun_path, "박성훈.csv")
+    return pd.read_csv(csv_path)
