@@ -11,10 +11,14 @@ def fetch_housing_data(parksunghun_url=parksunghun_url, housing_path=parksunghun
     if not os.path.isdir(parksunghun_path):
       os.makedirs(parksunghun_path)
     tgz_path = os.path.join(parksunghun_path, "fourpeople.tgz")
-    urllib.request.urlretrieve(parksunghun_url, tgz_path)
-    fourpeople_tgz = tarfile.open(tgz_path)
-    fourpeople_tgz.extractall(path=parksunghun_path)
-    fourpeople_tgz.close()
+    pattern1 = urllib.request.urlretrieve(parksunghun_url).read()
+    with open(fourpeople, mode= "wb") as t:
+        t.write(pattern1)
+        print("저장완료!")
+    f_tgz = tarfile.open(tgz_path)
+    f_tgz.extractall(path=parksunghun_path)
+    f_tgz.close()
+
     
 fetch_housing_data()
 
