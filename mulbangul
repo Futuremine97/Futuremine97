@@ -1,19 +1,24 @@
 import os
 import tarfile
 from six.moves import urllib
-DOWNLOAD_ROOT = "https://raw.githubusercontent.com/Futuremine97/Futuremine97/blob/main/fourpeople.tgz"
+DOWNLOAD_ROOT = "https://github.com/Futuremine97/Futuremine97/blob/main/fourpeople.tgz"
 parksunghun_path = os.path.join("Users","parksunghun","Futuremine97", "fourpeople")
-parksunghun_url = DOWNLOAD_ROOT + "Futuremine97/fourpeople/fourpeople.tgz"
+parksunghun_url = DOWNLOAD_ROOT
+
 
 
 def fetch_housing_data(parksunghun_url=parksunghun_url, housing_path=parksunghun_path):
     if not os.path.isdir(parksunghun_path):
       os.makedirs(parksunghun_path)
     tgz_path = os.path.join(parksunghun_path, "fourpeople.tgz")
-    urllib.request.urlretrieve(parksunghun_url, tgz_path)
-    fourpeople_tgz = tarfile.open(tgz_path)
-    fourpeople_tgz.extractall(path=parksunghun_path)
-    fourpeople_tgz.close()
+    pattern1 = urllib.request.urlretrieve(parksunghun_url).read()
+    with open(fourpeople, mode= "wb") as t:
+        t.write(pattern1)
+        print("저장완료!")
+    f_tgz = tarfile.open(tgz_path)
+    f_tgz.extractall(path=parksunghun_path)
+    f_tgz.close()
+
     
 fetch_housing_data()
 
