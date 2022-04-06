@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Futuremine97
-- 👀 I’m interested in ... 스타트업, CNN for toy project(Smart Chair System)
+- 👀 I’m interested in ...  CNN for toy project(Smart Chair System)
 - 🌱 I’m currently learning ... AI, ML, PYTHON
 - 💞️ I’m looking to collaborate on ...tensorflow lite, c++
 - 📫 How to reach me ...futuremine97@gmail.com
