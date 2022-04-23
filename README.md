@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...tensorflow lite, c++
 - 📫 How to reach me ...futuremine97@gmail.com
 - 
-- https://nvidiaupup.tistory.com/22
+- https://nvidiaupup.tistory.com/
 - my fascinate blog
 <!---
 Futuremine97/Futuremine97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
