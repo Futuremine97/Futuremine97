@@ -1,4 +1,3 @@
-구직중입니다! 
 
 - 👋 Hi, I’m @Futuremine97
 - 👀 I’m interested in ...  CNN for toy project(Smart Chair System)
