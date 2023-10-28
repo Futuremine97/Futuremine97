@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @Futuremine97
-- 👀 I’m interested in ...  CNN for toy project(Smart Chair System)
-- 🌱 I’m currently learning ... AI, ML, PYTHON
-- 💞️ I’m looking to collaborate on ...tensorflow lite, c++
+- 👀 I’m interested in ...  CNN for toy project(Smart chair system)
+- 🌱 I’m currently learning ... AI, Machine Learning, Python
+- 💞️ I’m looking to collaborate on ...Verilog, Tensorflow lite, C++
 - 📫 How to reach me ...futuremine97@gmail.com
 - 
 - https://nvidiaupup.tistory.com/
