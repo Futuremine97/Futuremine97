@@ -3,11 +3,8 @@
 - 👀 I’m interested in ...  CNN for toy project(Smart chair system)
 - 🌱 I’m currently learning ... AI, Machine Learning, Python
 - 💞️ I’m looking to collaborate on ...Verilog, Tensorflow lite, C++
-- 📫 How to reach me ...futuremine97@gmail.com
+- 📫 How to reach me ... futuremine97@gmail.com
 - 
-- https://nvidiaupup.tistory.com/
-- my fascinate blog
-
 
 <!---
 Futuremine97/Futuremine97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
