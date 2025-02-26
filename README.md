@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Sung Hoon Park 
+- 👋 Hi, I’m Sunghoon Park 
 - 👀 I’m interested in ...  CNN for toy project(Smart chair system)
 - 🌱 I’m currently learning ... AI, Machine Learning, Python
 - 💞️ I’m looking to collaborate on ...Verilog, Tensorflow lite, C++
