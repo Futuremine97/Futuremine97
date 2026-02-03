@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...  CNN for toy project(Smart chair for predicting who is sitting)
 - 🌱 I’m currently learning ... AI, Machine Learning, Python
 - 💞️ I’m looking to collaborate on ...Verilog, Tensorflow lite, C++, JAVA
-- 📫 How to reach me ... futuremine97@gmail.com 
+- 📫 How to reach me ... futuremine97{at}gmail{dot}com 
 - 
 
 <!---
