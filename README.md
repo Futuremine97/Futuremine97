@@ -1,8 +1,6 @@
 
 - 👋 Hi, I’m Sunghoon Park 
 
-Applied AI/ML engineer building OCR, document understanding, and vision systems.
-
 ## Snapshot
 - 60+ repositories spanning OCR, CV, NLP, clustering, RL, and RTL
 - Strong focus on document intelligence, automated labeling, and efficient deployment.
