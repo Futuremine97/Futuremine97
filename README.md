@@ -2,11 +2,11 @@
 - 👋 Hi, I’m Sunghoon Park 
 
 ## Snapshot
-- 60+ repositories spanning OCR, CV, NLP, clustering, RL, and RTL
+- 60+ repositories spanning Computer Vision, Natural Language Processing, clustering, RL, and RTL level-0 design and implement
 - Strong focus on document intelligence, automated labeling, and efficient deployment.
-- Hands-on experimentation across research ideas and production‑style pipelines.
 
 ## Focus Areas
+- Cryptocurrency real-time routing algorithm 
 - OCR & Document Understanding
 - Computer Vision (Detection / Segmentation / 3D)
 - LLM / NLP Systems
