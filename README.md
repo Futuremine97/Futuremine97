@@ -3,7 +3,6 @@
 
 ## Snapshot
 - 60+ repositories spanning Computer Vision, Natural Language Processing, clustering, RL, and RTL level-0 design and implement
-- Strong focus on document intelligence, automated labeling, and efficient deployment.
 
 ## Focus Areas
 - Cryptocurrency real-time routing algorithm 
