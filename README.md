@@ -5,12 +5,12 @@
 - 60+ repositories spanning Computer Vision, Natural Language Processing, clustering, RL, and RTL level-0 design and implement
 
 ## Focus Areas
-- Cryptocurrency real-time routing algorithm 
+- Cryptocurrency real-time routing algorithm
+- Time‑Series & Finance ML
 - OCR & Document Understanding
 - Computer Vision (Detection / Segmentation / 3D)
 - LLM / NLP Systems
 - Self‑Supervised & Clustering
-- Time‑Series & Finance ML
 - Edge / FPGA Acceleration
 
 ## Core Skills & Languages
