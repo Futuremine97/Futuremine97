@@ -16,7 +16,7 @@
 ## Core Skills & Languages
 - Python (FastAPI, PyTorch, TensorFlow/Keras, OpenCV, scikit‑learn)
 - JavaScript (React/Vite for web UIs)
-- C/C++ / FPGA / RTL (level-0) toolchains
+- C/C++ / FPGA / RTL (level-0 design & Implementation, Lint) toolchains
 - SQL / PostgreSQL, Docker, Linux
 
 ## Selected Repositories
