@@ -29,11 +29,10 @@
 - NeRF — 3D vision & neural rendering.
 - hls4ml / yolov2_xilinx_fpga / mnist_hls — FPGA acceleration
 - deepcluster / DEC-keras / SSL_2022 — self‑supervised and clustering studies.
-- StockPredict / ETHpredict / TQQQpredict — time‑series forecasting.
+- StockPredict / ETHpredict / — time‑series forecasting.
 
 ## Current Interests
 - OCR + clustering for automatic document organization
-- LLM‑assisted research workflows
 - Quantum Computer
   
 <!---
