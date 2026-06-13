@@ -1,5 +1,6 @@
 
 - 👋 Hi, I’m Sunghoon Park 
+- leave me a email whenever you find a bug or want a refinement ask for projects and repositories.
 
 ## Snapshot
 - 60+ repositories spanning Computer Vision, Natural Language Processing, clustering, RL, and RTL level-0 design and implement
